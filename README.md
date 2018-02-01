@@ -1,3 +1,3 @@
 # Bus-Management-System
 php based bus searching script
-With Admin DashBoard 
+With Admin Panel
